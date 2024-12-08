@@ -4,7 +4,8 @@
         <h1><b>MTG Organizer</b></h1>
       </div>
       <div className="info">
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam mollitia culpa, dolorem laboriosam sed pariatur ducimus harum alias quisquam doloremque vitae. Saepe facilis pariatur esse neque deserunt, quis voluptas iure? Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque excepturi reiciendis similique optio fugit voluptates commodi doloribus, debitis aperiam. Vel, deleniti dolorum. Asperiores reprehenderit, consequatur possimus blanditiis veniam voluptatum! Aperiam dicta dolorem doloribus magni rem corrupti laborum nostrum, nulla amet at sunt saepe eos vero, voluptatibus eveniet dignissimos reiciendis placeat.</p>
+        <p>Добро пожаловать в MTG Organizer — идеальное приложение для всех поклонников и коллекционеров Magic: The Gathering (MTG)! Наше приложение создано для того, чтобы помочь вам организовать и управлять вашей коллекцией карт.</p>
+        <p>С MTG Organizer ваша коллекция карт и игровые сессии всегда будут под контролем. Скачайте приложение сейчас и начните организовывать свою MTG-вселенную с максимальным удобством!</p>
       </div>
     </div>
 </template>
